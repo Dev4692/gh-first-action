@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: Print Greeting
         run: |
-          echo "Hello World!"
-          echo "Hello World!"
+          echo "First Hello World!"
+          echo "Second Hello World!"
       
